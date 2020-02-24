@@ -93,6 +93,8 @@ If the basket total is $150, then both the first and second rules don&#39;t appl
 
 The final basket total taking account of the offers and deliver costs is then returned.
 
+
+
 If you have any further questions regarding this POC system please contact John Maxfield ([johnhmaxfield@gmail.com](mailto:johnhmaxfield@gmail.com)).
 
 JHM 24.02.2020
